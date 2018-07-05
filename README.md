@@ -13,10 +13,25 @@
 <p>&nbsp;</p>
 <p><strong>Th&ocirc;ng b&aacute;o cập nhật cho repository của dự &aacute;n</strong></p>
 <p><strong>Flappy Bird</strong></p>
-<p>Game engine nh&oacute;m sử dụng cho Flappy Bird được clone từ repository <a href="chncyhn/flappybird-qlearning-bot">n&agrave;y.</a></p>
+<p>Game engine nh&oacute;m sử dụng cho Flappy Bird được clone từ repository <a href="https://github.com/chncyhn/flappybird-qlearning-bot">n&agrave;y.</a></p>
 <p>Trong repository của dự &aacute;n <strong>AlphaOne </strong>n&agrave;y, hai file định dạng .rar đ&atilde; được tải l&ecirc;n, bao gồm:</p>
 <ul>
 <li>flappybird-qlearning-bot_10by10.rar</li>
 <li>flappybird-qlearning-bot_5by5.rar</li>
 </ul>
-<p>Nội dung 2 file n&agrave;y l&agrave; edited code d&agrave;nh cho 2 phi&ecirc;n bản kh&aacute;c nhau trong một phần của thuật to&aacute;n. Chi tiết kĩ hơn được m&ocirc; tả ở phần comment trong code.</p>
+<p>Th&ocirc;ng tin chi tiết:</p>
+<p>Trong mỗi game, flappy bird của ch&uacute;ng ta quan s&aacute;t lại những trạng th&aacute;i m&agrave; n&oacute; từng đi qua, cũng như h&agrave;nh động được lựa chọn v&agrave;o thời điểm đ&oacute;. Mỗi cặp trạng th&aacute;i - h&agrave;nh động được đưa ra một mức thưởng/ phạt phụ thuộc v&agrave;o kết quả của cặp đ&oacute;. Sau khi chơi rất nhiều game, flappy bird c&oacute; thể đạt đến một số điểm kh&aacute; tốt.</p>
+<p><span style="text-decoration: underline;">10 by 10</span></p>
+<p>Đ&acirc;y l&agrave; phi&ecirc;n bản với c&aacute;c th&ocirc;ng số sau:</p>
+<ul>
+<li>Độ lớn grid để discretize state variables: 10 by 10</li>
+<li>Learning Rate = 0.9</li>
+<li>Discount = 0.6</li>
+</ul>
+<p><span style="text-decoration: underline;">5 by 5</span></p>
+<p>Đ&acirc;y l&agrave; phi&ecirc;n bản với c&aacute;c th&ocirc;ng số sau:</p>
+<ul>
+<li>Độ lớn grid để discretize state variables: 5 by 5</li>
+<li>Learning Rate = 0.9</li>
+<li>Discount = 0.6</li>
+</ul>
