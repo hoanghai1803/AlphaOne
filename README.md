@@ -4,7 +4,11 @@
 
 The past few years have observed a growing trend of artificial intelligence (AI) for game playing, including even those that can compete with human players. A notable name is AlphaGO, an AI which utilises supervised learning and reinforcement learning to play Go and achieved [certain results]. Inspired by this machine and strongly desiring to explore how AI can help mankind push its boundaries, we decided to start a project in applying reinforcement learning to game playing, AlphaOne.
 
-This project is done as a part of the [Math and Science Summer Program 2018] (MaSSP) in Computer Science. Our instructor is [Dr. Hung Ngo], working at the University of Stuttgart at the time of this project.
+This project is done as a part of the [Math and Science Summer Program 2018] (MaSSP) in Computer Science. Our instructor is [Dr. Hung Ngo], working as a post-doctoral researcher and lecturer at the University of Stuttgart. Our team include
+
+- Nguyen Hoang Hai, *Nguyen Binh Khiem High School for the Gifted, Quang Nam, Vietnam*
+- Nguyen Quang Minh, *VNU-HCM High School for the Gifted*
+- Nguyen Duc Thang, *Le Quy Don High School for the Gifted, Ba Ria-Vung Tau, Vietnam*
 
 ## Our goal
 
@@ -17,7 +21,7 @@ This project is done as a part of the [Math and Science Summer Program 2018] (Ma
 - Making use of convolutional neural networks to extract visual features as input state
 - Applying reinforcement learning to Gomoku and Mario
 
-## What we did
+## What we have accomplished
 
 - Understanding Flappy Bird game engine as well as referencing the Q-learning approach from GitHub repository [chncyhn/flappybird-qlearning-bot]
 - Applying Q-learning algorithm with novel state space extraction and discretization methods: 
