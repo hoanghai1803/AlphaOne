@@ -2,7 +2,7 @@
 
 ## Motivation
 
-The past few years have observed a growing trend of artificial intelligence (AI) for game playing, including even those that can compete with human players. A notable name is AlphaGO, an AI which utilises supervised learning and reinforcement learning to play Go and achieved [certain results]. Inspired by this machine and strongly desiring to explore how AI can help mankind push its boundaries, we decided to start a project in applying reinforcement learning to game playing, AlphaOne.
+The past few years have observed a growing trend of artificial intelligence (AI) for game playing, including even those that can compete with human players. A notable name is AlphaGO, an AI which utilises supervised learning and reinforcement learning to play Go and achieved [certain results]. Inspired by this machine and strongly desiring to explore how AI can help mankind push its boundaries, we decided to start a project in applying reinforcement learning to game playing, **AlphaOne**.
 
 This project is done as a part of the [Math and Science Summer Program 2018] (MaSSP) in Computer Science. Our instructor is [Dr. Hung Ngo], working as a post-doctoral researcher and lecturer at the University of Stuttgart. Our team include
 
