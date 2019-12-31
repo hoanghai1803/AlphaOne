@@ -6,8 +6,8 @@ The past few years have observed a growing trend of artificial intelligence (AI)
 
 This project is done as part of the [Math and Science Summer Program 2018] (MaSSP) in Computer Science. Our instructor is [Dr. Hung Ngo], working as a post-doctoral researcher and lecturer at the University of Stuttgart. Our team includes
 
-- Nguyen Hoang Hai, *Nguyen Binh Khiem High School for the Gifted, Quang Nam, Vietnam*
 - Nguyen Quang Minh, *VNU-HCM High School for the Gifted*
+- Nguyen Hoang Hai, *Nguyen Binh Khiem High School for the Gifted, Quang Nam, Vietnam*
 - Nguyen Duc Thang, *Le Quy Don High School for the Gifted, Ba Ria-Vung Tau, Vietnam*
 
 ## Our goal
