@@ -23,11 +23,18 @@ This project is done as part of the [Math and Science Summer Program 2018] (MaSS
 
 ## Our results
 
+- Acquiring the necessary base knowledge in Markov Decision Process, dynamic programming, and general reinforcement learning.
 - Understanding Flappy Bird game engine as well as referencing the Q-learning approach from GitHub repository [chncyhn/flappybird-qlearning-bot]
 - Applying Q-learning algorithm to Flappy Bird with novel state space extraction and discretization methods: 
   - Diagonal distance extraction
   - Non-velocity state space
 - Redesigning a fast-running Flappy Bird engine without visualization to increase training efficiency
+
+## Repository description
+
+- The main engine and learning algorithm is implemented in the files `bot.py`, `flappy.py`, and `initialize_qvalues.py`.
+- Our slides for final presentation at MaSSP is in `AlphaOne_Project.pdf`.
+- Folder `version1` is forked from repository [chncyhn/flappybird-qlearning-bot], which is our main source of reference.
 
 [certain results]: https://deepmind.com/research/case-studies/alphago-the-story-so-far
 [Math and Science Summer Program 2018]: https://masspvn.com
