@@ -27,7 +27,7 @@ This project is done as part of the [Math and Science Summer Program 2018] (MaSS
 - Applying Q-learning algorithm to Flappy Bird with novel state space extraction and discretization methods: 
   - Diagonal distance extraction
   - Non-velocity state space
-- Redesigning a fast-running Flappy Bird engine without visualization to increase training efficiency.
+- Redesigning a fast-running Flappy Bird engine without visualization to increase training efficiency
 
 [certain results]: https://deepmind.com/research/case-studies/alphago-the-story-so-far
 [Math and Science Summer Program 2018]: https://masspvn.com
